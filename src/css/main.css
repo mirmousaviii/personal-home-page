@@ -248,57 +248,6 @@ nav ul li {
     font-size: 1.6em;
   }
 
-
-  /*
-  h1 {
-    font-size: 4em;
-    font-weight: normal;
-    margin: 0.2em;
-  }
-
-  h2 {
-    font-size: 2.5em;
-    font-weight: normal;
-    margin: 0;
-  }
-
-  nav ul {
-    list-style-type: none;
-    margin: 2em 0;
-    padding: 0;
-    overflow: hidden;
-  }
-
-  nav ul li {
-    display: inline-block;
-    padding: 0;
-    margin: 0;
-  }
-
-  .social-links {
-    text-decoration: none;
-    margin: 0 10px;
-  }
-
-  .social-links i {
-    font-size: 2em;
-    border-radius: 10px;
-    color: #fff;
-    background-color: #555;
-    padding: 2px;
-  }
-  .social-links:hover i {
-    background-color: #222;
-  }
-
-  .social-links span {
-    display: block;
-    font-size: 0.5em;
-    color: #555;
-    font-family: 'Merienda', cursive;
-  }
-  */
-
 }
 
 @media print,
