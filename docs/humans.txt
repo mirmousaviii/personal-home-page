@@ -1,0 +1,14 @@
+/* TEAM */
+	Developer: Mostafa Mirmousavi
+	Site: http://mirmousavi.com
+	Contact: mirmousavi.m [at] gmail.com
+	Twitter: @mirmousaviii
+	From: Tehran, Iran
+
+/* THANKS */
+    HTML5-Boilerplate: https://github.com/h5bp/html5boilerplate.com
+
+/* SITE */
+	Language: English
+	Doctype:HTML5
+	IDE: WebStorm, PhpStorm
