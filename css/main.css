@@ -128,6 +128,27 @@ h2 {
   display: none;
 }
 
+.txt-rotate > .wrap {
+  border-right: 0.04em solid #666;
+}
+
+/*.txt-rotate:after {
+  content: "|";
+  animation: blink .5s step-end infinite alternate;
+  color: #ff6700;
+}
+@keyframes blink {
+  50% {
+    color: #0173ff;
+  }
+}
+@-webkit-keyframes blink {
+  50% {
+    color: #fff;
+  }
+}*/
+
+
 nav ul {
   list-style-type: none;
   padding: 0;
