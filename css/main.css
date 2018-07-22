@@ -124,6 +124,10 @@ h2 {
   margin: 0;
 }
 
+#dynamic-description {
+  display: none;
+}
+
 nav ul {
   list-style-type: none;
   padding: 0;
